@@ -24,4 +24,9 @@ python app.py
 
 ## 🧩 Requirements
 - Python 3.8+
-- Kaggle Secrets for Gemini API key
+- google-generativeai
+- gradio
+- feedparser
+- pandas
+- matplotlib
+- Gemini API key
